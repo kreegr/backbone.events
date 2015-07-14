@@ -1,0 +1,23 @@
+{
+  "name": "backbone.events",
+  "version": "1.0.0",
+  "description": "Extracted Backbone.Events",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kreegr/backbone.events.git"
+  },
+  "keywords": [
+    "Backbone",
+    "Events"
+  ],
+  "author": "Matt Krueger <mkruege2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kreegr/backbone.events/issues"
+  },
+  "homepage": "https://github.com/kreegr/backbone.events"
+}
