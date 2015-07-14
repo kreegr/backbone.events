@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kreegr/backbone.events/issues"
   },
-  "homepage": "https://github.com/kreegr/backbone.events"
+  "homepage": "https://github.com/kreegr/backbone.events",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
 }

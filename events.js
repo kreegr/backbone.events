@@ -262,4 +262,4 @@
 
 
     module.exports = Events;
-})(require('_'));
+})(require('lodash'));
